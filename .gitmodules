@@ -1,0 +1,3 @@
+[submodule "vendor/querypath"]
+	path = vendor/querypath
+	url = git://github.com/technosophos/querypath.git
